@@ -120,11 +120,3 @@ Read the full explanation here:
 👉 **ML-Ops and Lifecycle Management in GCP for Data Scientists**  
 https://medium.com/@biplov001/ml-ops-and-life-cycle-management-in-gcp-for-data-scientists-6e4256b3e63d
 
----
-
-If you want, I can add:
-- badges  
-- a license section  
-- GIF diagrams  
-- code samples for each component  
-- or a step-by-step setup guide for GCP.
